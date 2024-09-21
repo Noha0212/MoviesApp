@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "114826790192",
+    "project_id": "os2project-ca75c",
+    "storage_bucket": "os2project-ca75c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114826790192:android:64d7caf0ef92ae153174f5",
+        "android_client_info": {
+          "package_name": "com.example.os2project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmrgOdv_iZi6b1n-7knxwdctBmFfV1IbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
